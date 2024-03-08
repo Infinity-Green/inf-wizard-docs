@@ -8,6 +8,14 @@ Use `inf-wizard <command> --help` to view detailed help for a specific command.
 
 ## Available Commands
 
+
+
+```bash
+inf-wizard version
+```
+
+Displays the current CLI version.
+
 ### Explorer
 
 ```bash
@@ -64,36 +72,37 @@ Creates a new wallet file at the specified path.
 
 ### Node Management
 
-```bash
-inf-wizard node install-inf
-```
+
 
 Installs the INF binary.
 
 ```bash
-inf-wizard node init-secrets --data-dir <directory>
+inf-wizard node install-inf
 ```
 
-Initializes INF secrets in the specified data directory.
-
-```bash
-inf-wizard node start-inf-server
-```
-
-Starts the INF node.
+Dumps the genesis JSON file.
 
 ```bash
 inf-wizard node get-genesis
 ```
 
-Dumps the genesis JSON file.
-
-## Additional Information
+Initializes INF secrets in the specified data directory.
 
 ```bash
-inf-wizard version
+inf-wizard node init-secrets --data-dir <directory>
 ```
 
-Displays the current CLI version.
+Starts the INF node.
+
+```bash
+inf-wizard node start-inf-server
+```
+
+
+
+
+
+
+
 
 Happy exploring and interacting with Infinity-Green!
