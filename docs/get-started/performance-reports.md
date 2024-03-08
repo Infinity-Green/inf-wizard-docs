@@ -7,7 +7,7 @@ Our goal is to make a highly-performant, feature-rich and easy to setup and main
 Every performance report you will find on this page is properly dated, environment clearly described and the testing method clearly explained.
 
 
-## March 2nd 2022
+## March 2nd 2024
 
 ### Summary
 
