@@ -9,7 +9,7 @@ module.exports = {
                 'get-started/cli-commands',
                 'get-started/full-node-deployment',
                 'get-started/json-rpc-commands',
-                'get-started/performance-reports',
+              //  'get-started/performance-reports',
             ]
         },
    
