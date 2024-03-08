@@ -2,13 +2,13 @@ require('dotenv').config()
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'Infinity-Green Docs',
+    title: 'INF Docs',
     url: 'https://docs.dogechain.dog',
     baseUrl: '/',
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    //favicon: 'https://i.postimg.cc/wTNbsthM/image.png',
+    favicon: 'https://i.postimg.cc/wTNbsthM/',
     organizationName: 'dogechain-lab',
     projectName: 'dogechain-docs',
     
@@ -30,10 +30,10 @@ module.exports = {
         },
         navbar: {
             hideOnScroll: true,
-            title: 'INF',
+            title: 'Infinity-Green',
             logo: {
-                alt: ' Logo',
-                src: '',
+                alt: 'Infinity-Green Logo',
+                src: 'https://i.postimg.cc/wTNbsthM/',
                 href: 'docs/overview'
             },
             items: [

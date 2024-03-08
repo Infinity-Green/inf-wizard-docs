@@ -1,10 +1,10 @@
 {
   "index_name": "docs.ind",
   "start_urls": [
-    ""
+    "http://jj.js"
   ],
   "sitemap_urls": [
-    ""
+    "http://jj.js"
   ],
   "stop_urls": [],
   "sitemap_alternate_links": true,
