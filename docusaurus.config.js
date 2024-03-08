@@ -8,7 +8,7 @@ module.exports = {
 
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'https://i.postimg.cc/wTNbsthM/image.png',
+    //favicon: 'https://i.postimg.cc/wTNbsthM/image.png',
     organizationName: 'dogechain-lab',
     projectName: 'dogechain-docs',
     
@@ -30,10 +30,10 @@ module.exports = {
         },
         navbar: {
             hideOnScroll: true,
-            title: 'Mindchain',
+            title: 'INF',
             logo: {
-                alt: 'Mindchain Logo',
-                src: 'https://i.postimg.cc/wTNbsthM/image.png',
+                alt: ' Logo',
+                src: '',
                 href: 'docs/overview'
             },
             items: [

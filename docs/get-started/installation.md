@@ -6,16 +6,14 @@ title: Installation
 
 
 
-## Building from source
+## Installing inf-wizard
 
-Prior to using `go install` make sure that you have Go `>=1.16` installed and properly configured.
+Make sure that you have node  `>=18.0.0` installed and properly configured.
 
-The stable branch is `develop`.
+
 
 ```shell
-git clone https://github.com/Mind-chain/setpos
-cd setpos
-bash install.sh
+npm i -g inf-wizard
 ```
 
 ---
