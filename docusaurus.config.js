@@ -2,7 +2,7 @@ require('dotenv').config()
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'MINDCHAIN Docs',
+    title: 'Infinity-Green Docs',
     url: 'https://docs.dogechain.dog',
     baseUrl: '/',
 

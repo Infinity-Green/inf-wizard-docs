@@ -1,28 +1,17 @@
 ---
 id: overview 
-title: MINDCHAIN
+title: Infinity-Green
 sidebar_label: Overview
 ---
 
-## Mainnet
-* Explorer: https://mainnet.mindscan.info
-* ChainID:  9996
-* Bridge:   soon
-* HTTP RPC Endpoints:
-    * https://rpc-msc.mindchain.info	
-    * https://seednode.mindchain.info
-    
-* WS  RPC Endpoints:
-    * wss://seednode.mindchain.info/ws	
+
 
 ## Testnet
-* Explorer: https://testnet.mindscan.info
-* ChainID:  9977
-* Faucet:   https://faucet.mindchain.info
+* ChainID:  909090
 * HTTP RPC Endpoints:
-    * https://testnet-msc.mindchain.info	
+    * http://65.108.239.39:8545/	
 * WS RPC Endpoints:
-    * wss://testnet-msc.mindchain.info/ws
+    * ws://65.108.239.39:8545/ws
 
 
 
