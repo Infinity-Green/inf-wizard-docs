@@ -85,10 +85,6 @@ since block gas limit & block time are set to sane values that don't consume muc
     <div>
         <table>
             <tr>
-                <td>inf-chain version</td>
-             
-            </tr>
-            <tr>
                 <td>Validator nodes</td>
                 <td>6</td>
             </tr>
@@ -244,8 +240,7 @@ since block gas limit & block time are set to sane values that don't consume muc
   <summary>Blockchain Configuration</summary>
   <div>
     <div>
-        <table>
-         
+        <table>    
             <tr>
                 <td>Validator nodes</td>
                 <td>6</td>
@@ -442,7 +437,6 @@ and since block gas limit & block time are set to sane values that don't consume
   <div>
     <div>
         <table>
-         
             <tr>
                 <td>Validator nodes</td>
                 <td>30</td>
