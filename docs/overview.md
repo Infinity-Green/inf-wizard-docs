@@ -23,4 +23,4 @@ sidebar_label: Overview
 
 
 
-To get started by running a `Mind-chain` network locally, please read: [Installation](/docs/get-started/installation) and [Local Setup](/docs/get-started/set-up-ibft-locally).
+To get started by running a `Mind-chain` network locally, please read: [Installation](/docs/get-started/installation) .
