@@ -19,8 +19,8 @@ sidebar_label: Overview
 
 
 
-**[GitHub repository](https://github.com/Mind-chain/Mind-chain)**
+**[GitHub repository](https://github.com/Infinity-Green/inf-core-node)**
 
 
 
-To get started by running a `Mind-chain` network locally, please read: [Installation](/docs/get-started/installation) .
+To get started by running a `Infinity-Green` network locally, please read: [Installation](/docs/get-started/installation) .

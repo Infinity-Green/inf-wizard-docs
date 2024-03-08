@@ -50,7 +50,7 @@ module.exports = {
                 //     position: 'left'
                 // },
                 {
-                    href: 'https://github.com/Mind-chain',
+                    href: 'https://github.com/Infinity-Green/inf-wizard-docs',
                     position: 'right',
                     className: 'header-github-link',
                     'aria-label': 'GitHub repository',
@@ -59,7 +59,7 @@ module.exports = {
         },
         footer: {
             style: 'dark',
-            copyright: `Made by mind mic`
+            copyright: `Made by  DEV@Infinity-Green`
         }
     },
     presets: [

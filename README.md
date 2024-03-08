@@ -1,9 +1,9 @@
-## Mind-chainDocs
+## Infinity-Green Docs
 
-[![Github Actions](https://github.com/Mind-chain/Mind-chain-docs/actions/workflows/pages.yml/badge.svg)](https://github.com/Mind-chain/Mind-chain-docs/actions/workflows/pages.yml)
+[![Github Actions](https://github.com/Infinity-Green/inf-wizard-docs/actions/workflows/pages.yml/badge.svg)](https://github.com/Infinity-Green/inf-wizard-docs/actions/workflows/pages.yml)
 
-This is the main repo for contributing to the Mind-chaindocumentation.
+This is the main repo for contributing to the Infinity-Green-chain documentation.
 
 If you'd like to contribute, please check out our contribution guide.
 
-For any questions, please contact the Mind-chainteam.
+For any questions, please contact the Infinity-Green DEV team.
