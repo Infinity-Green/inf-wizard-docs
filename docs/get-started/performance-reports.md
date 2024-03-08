@@ -85,8 +85,8 @@ since block gas limit & block time are set to sane values that don't consume muc
     <div>
         <table>
             <tr>
-                <td>Mind-chainversion</td>
-                <td>Commit <a href="https://github.com/0xPolygon/polygon-edge/commit/8a033aa1afb191abdac04636d318f83f32511f3c">8a033aa1afb191abdac04636d318f83f32511f3c</a> on develop branch</td>
+                <td>inf-chain version</td>
+             
             </tr>
             <tr>
                 <td>Validator nodes</td>
@@ -245,10 +245,7 @@ since block gas limit & block time are set to sane values that don't consume muc
   <div>
     <div>
         <table>
-            <tr>
-                <td>Mind-chainversion</td>
-                <td>Commit <a href="https://github.com/0xPolygon/polygon-edge/commit/8a033aa1afb191abdac04636d318f83f32511f3c">8a033aa1afb191abdac04636d318f83f32511f3c</a> on develop branch</td>
-            </tr>
+         
             <tr>
                 <td>Validator nodes</td>
                 <td>6</td>
@@ -386,7 +383,7 @@ since block gas limit & block time are set to sane values that don't consume muc
 
 ### Summary
 
-This test was done after the TxPool refactor which significantly improved performance (released in [v0.2.0](https://github.com/0xPolygon/polygon-edge/releases/v0.2.0)).
+This test was done after the TxPool refactor which significantly improved performance (released in [v0.2.0]()).
 
 The goal was to setup a large network consisting of 30 actively participating validators in order to properly stress test the
 consensus and TxPool transaction gossiping as all transactions were sent to a single node's JSON-RPC.
@@ -445,10 +442,7 @@ and since block gas limit & block time are set to sane values that don't consume
   <div>
     <div>
         <table>
-            <tr>
-                <td>Mind-chainversion</td>
-                <td>Commit <a href="https://github.com/0xPolygon/polygon-edge/commit/8377162281d1a2e4342ae27cd4e5367c4364aee2">8377162281d1a2e4342ae27cd4e5367c4364aee2</a> on develop branch</td>
-            </tr>
+         
             <tr>
                 <td>Validator nodes</td>
                 <td>30</td>
